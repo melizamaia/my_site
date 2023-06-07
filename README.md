@@ -1,7 +1,7 @@
 # my_site
 <h1> Creating a new website with Django </h1>
 
-Estou aprendendo a utilizar melhor o Django criando um novo site para realizar alguns testes no futuro
+Estou aprendendo a utilizar melhor o Django criando um novo site para realizar alguns testes
 
 -Adicionando as primeiras URLs & views
 
