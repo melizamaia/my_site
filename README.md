@@ -12,7 +12,4 @@ Estou aprendendo a utilizar melhor o Django criando um novo site
 -Adicionei uma página com erro 404
 
 
-
-<div align="center">
-<img src="![Mel_Blog](https://github.com/melizamaia/my_site/assets/79480520/a310b439-e5f1-42c8-b4f3-287ff15b2f27)" width="300px" />
-</div>
+![Mel_Blog](https://github.com/melizamaia/my_site/assets/79480520/b149ecb4-8a88-4bbe-a1ed-d0c0b4ca1182)
