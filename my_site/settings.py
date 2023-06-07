@@ -30,6 +30,13 @@ DEBUG = config('DEBUG', cast=bool)
 
 ALLOWED_HOSTS = []
 
+DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+from django.apps import AppConfig
+
+class BlogConfig(AppConfig):
+    default_auto_field = 'django.db.models.BigAutoField'
+    name = 'blog'
 
 # Application definition
 
