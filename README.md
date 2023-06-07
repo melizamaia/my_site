@@ -3,6 +3,8 @@
 
 Estou aprendendo a utilizar melhor o Django criando um novo site para realizar alguns testes
 
+Atualmente foi concluído:
+
 -Adicionando as primeiras URLs & views
 
 -Esconder dados sensíveis
